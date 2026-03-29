@@ -1,0 +1,12 @@
+{
+    "tasks": [
+        {
+            "description": "Do groceries",
+            "complete": false
+        },
+        {
+            "description": "Buy clothes on Stradivarius",
+            "complete": false
+        }
+    ]
+}
